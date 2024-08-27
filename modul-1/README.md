@@ -191,7 +191,7 @@ public function tampilkanData() {
 
 `Hasil`: ![image](https://github.com/user-attachments/assets/4fe94329-eeef-4327-8ecd-0ebf10b240ef)
 
-`Encapsulation`: Memungkinkan untuk menyembunyikan implementasi internal object.
+`Encapsulation`: Membungkus properti dan method dalam satu class.
 
 ```php
 <?php 
