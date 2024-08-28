@@ -199,7 +199,7 @@
     echo "<br><br>";
 
     // Instance objek Jurnal dan menampilkan data yang di-instance
-    $jurnal = [new JurnalDosen, new JurnalMahasiswa];
+    $jurnal = [new JurnalDosen(), new JurnalMahasiswa()];
 
     foreach ($jurnal as $j) {
         echo $j->pengajuanJurnal() . " ";
