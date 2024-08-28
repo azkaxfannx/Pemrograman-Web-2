@@ -372,3 +372,8 @@ Paradigma pemrograman berorientasi objek yang mana objek ini merepresentasikan e
 ```
 
 `Hasil`: ![image](https://github.com/user-attachments/assets/45e3bf67-3b1e-446e-8f98-18ba7950ab8d)
+
+## PENERAPAN OOP DALAM PHP
+1. Dalam Framework. Hampir semua framework PHP (Laravel, CodeIgniter, Symfony) menggunakan konsep OOP.
+2. Permainan
+3. Aplikasi Web
